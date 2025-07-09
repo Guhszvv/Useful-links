@@ -14,7 +14,7 @@ The idea is to provide a digital toolbox that’s always available, with categor
 
 Check out the [website](https://guhszvv.github.io/Useful-links/) and bookmark it — so you never have to search endlessly for the right tool again!
 
-## Roadmap
+## To do
 
  - [ ] Add React ⚛
  - [ ] Create a unique style for the site
